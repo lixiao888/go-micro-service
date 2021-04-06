@@ -1,0 +1,173 @@
+{"level":"info","ts":"2020-12-23T21:46:36.210+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"info","ts":"2020-12-23T21:46:41.215+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"info","ts":"2020-12-23T21:46:46.218+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2020-12-23T21:46:48.595+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/7DS3EGJ8MLAAS Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2020-12-23T21:46:48.595+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"error","ts":"2020-12-23T21:46:48.674+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/7DS3EGJ8MLAAS Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2020-12-23T21:46:48.674+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2020-12-23T21:46:48.714+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2020-12-23T21:46:48.984+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/7DS3EGJ8MLAAS Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2020-12-23T21:46:48.984+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"error","ts":"2020-12-23T21:46:49.486+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/7DS3EGJ8MLAAS Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2020-12-23T21:46:49.486+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2020-12-23T21:47:23.085+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"info","ts":"2020-12-23T21:47:23.921+0800","caller":"handler/paymentApi.go:97","msg":"&{0xc0006625a0 [] [{https://api.sandbox.paypal.com/v1/payments/payouts/FTC4KCKYSJZE4 self GET  application/json}]}"}
+{"level":"info","ts":"2020-12-23T21:47:37.762+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"info","ts":"2020-12-23T21:47:42.768+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2020-12-23T21:47:46.587+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/FTC4KCKYSJZE4 Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2020-12-23T21:47:46.587+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2020-12-23T21:47:47.768+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2020-12-23T21:47:48.664+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/FTC4KCKYSJZE4 Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2020-12-23T21:47:48.664+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2020-12-23T21:47:48.774+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2020-12-23T21:47:49.686+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/FTC4KCKYSJZE4 Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2020-12-23T21:47:49.686+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"error","ts":"2020-12-23T21:47:49.709+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/FTC4KCKYSJZE4 Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2020-12-23T21:47:49.709+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+
+{"level":"info","ts":"2020-12-23T21:47:49.709+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}1111"}
+{"level":"info","ts":"2020-12-23T21:47:49.709+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}1111"}
+{"level":"info","ts":"2020-12-23T21:47:49.709+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}1111"}{"level":"info","ts":"2020-12-23T21:47:49.709+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}1111"}
+{"level":"info","ts":"2020-12-23T21:47:49.709+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}1111"}
+
+
+{"level":"info","ts":"2020-12-23T21:47:49.709+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}1111"}
+{"level":"info","ts":"2020-12-23T21:47:49.709+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}1111"}
+{"level":"info","ts":"2020-12-23T21:47:49.709+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+
+
+{"level":"info","ts":"2020-12-23T21:47:49.709+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2020-12-23T21:47:49.709+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}{"level":"info","ts":"2020-12-23T21:47:49.709+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2020-12-23T21:47:49.709+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2020-12-23T21:47:49.709+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2020-12-23T21:47:49.709+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}{"level":"info","ts":"2020-12-23T21:47:49.709+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}{"level":"info","ts":"2020-12-23T21:47:49.709+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}{"level":"info","ts":"2020-12-23T21:47:49.709+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}{"level":"info","ts":"2020-12-23T21:47:49.709+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2020-12-23T21:47:49.709+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2020-12-23T21:47:49.709+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+
+
+imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战imooc Cap 老师
+容器化微服务实战imooc Cap 老师 容器化微服务实战
+                                          imooc Cap 老师 容器化微服务实战
+                                          imooc Cap 老师 容器化微服务实战imooc Cap 老师 容器化微服务实战
+                                          imooc Cap 老师 容器化微服务实战
+                                          imooc Cap 老师 容器化微服务实战
+                                          imooc Cap 老师 容器化微服务实战imooc Cap 老师 容器化微服务实战imooc Cap 老师 容器化微服务实战
+                                                                                    imooc Cap 老师 容器化微服务实战
+                  imooc Cap 老师 容器化微服务实战imooc Cap 老师 容器化微服务实战
+                                                                                    imooc Cap 老师 容器化微服务实战
+                                                                                    imooc Cap 老师 容器化微服务实战
+                                                                                    imooc Cap 老师 容器化微服务实战imooc Cap 老师 容器化微服务实战
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战
+
+imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战
+imooc Cap 老师 容器化微服务实战{"level":"error","ts":"2021-04-02T15:15:11.740+0800","caller":"handler/paymentApi.go:105","msg":"payment_id 参数异常"}
+{"level":"error","ts":"2021-04-02T15:15:11.845+0800","caller":"handler/paymentApi.go:105","msg":"payment_id 参数异常"}
+{"level":"info","ts":"2021-04-02T15:15:19.099+0800","caller":"paymentapi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-04-02T15:15:19.109+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-04-02T15:15:19.217+0800","caller":"paymentapi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-04-02T15:15:19.220+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"error","ts":"2021-04-02T15:15:27.501+0800","caller":"handler/paymentApi.go:105","msg":"payment_id 参数异常"}
+{"level":"error","ts":"2021-04-02T15:15:27.610+0800","caller":"handler/paymentApi.go:105","msg":"payment_id 参数异常"}
+{"level":"info","ts":"2021-04-02T15:16:11.979+0800","caller":"paymentapi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-04-02T15:16:11.981+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-04-02T15:16:12.091+0800","caller":"paymentapi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-04-02T15:16:12.093+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-04-02T15:16:48.898+0800","caller":"paymentapi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-04-02T15:16:50.550+0800","caller":"handler/paymentApi.go:91","msg":"POST https://api.paypal.com/v1/oauth2/token: 401 , []"}
+{"level":"error","ts":"2021-04-02T15:16:50.964+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.paypal.com/v1/payments/payouts: 401 Authentication failed due to invalid authentication credentials or a missing Authorization header., []"}
+{"level":"info","ts":"2021-04-02T15:16:50.964+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2021-04-02T15:16:51.069+0800","caller":"paymentapi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-04-02T15:16:51.503+0800","caller":"handler/paymentApi.go:91","msg":"POST https://api.paypal.com/v1/oauth2/token: 401 , []"}
+{"level":"error","ts":"2021-04-02T15:16:51.920+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.paypal.com/v1/payments/payouts: 401 Authentication failed due to invalid authentication credentials or a missing Authorization header., []"}
+{"level":"info","ts":"2021-04-02T15:16:51.920+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2021-04-02T15:16:59.990+0800","caller":"paymentapi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-04-02T15:17:00.440+0800","caller":"handler/paymentApi.go:91","msg":"POST https://api.paypal.com/v1/oauth2/token: 401 , []"}
+{"level":"error","ts":"2021-04-02T15:17:00.859+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.paypal.com/v1/payments/payouts: 401 Authentication failed due to invalid authentication credentials or a missing Authorization header., []"}
+{"level":"info","ts":"2021-04-02T15:17:00.859+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2021-04-02T15:17:00.964+0800","caller":"paymentapi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-04-02T15:17:01.451+0800","caller":"handler/paymentApi.go:91","msg":"POST https://api.paypal.com/v1/oauth2/token: 401 , []"}
+{"level":"error","ts":"2021-04-02T15:17:01.887+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.paypal.com/v1/payments/payouts: 401 Authentication failed due to invalid authentication credentials or a missing Authorization header., []"}
+{"level":"info","ts":"2021-04-02T15:17:01.887+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2021-04-02T15:17:05.585+0800","caller":"paymentapi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-04-02T15:17:06.047+0800","caller":"handler/paymentApi.go:91","msg":"POST https://api.paypal.com/v1/oauth2/token: 401 , []"}
+{"level":"error","ts":"2021-04-02T15:17:06.464+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.paypal.com/v1/payments/payouts: 401 Authentication failed due to invalid authentication credentials or a missing Authorization header., []"}
+{"level":"info","ts":"2021-04-02T15:17:06.465+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2021-04-02T15:17:06.610+0800","caller":"paymentapi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-04-02T15:17:07.048+0800","caller":"handler/paymentApi.go:91","msg":"POST https://api.paypal.com/v1/oauth2/token: 401 , []"}
+{"level":"error","ts":"2021-04-02T15:17:07.459+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.paypal.com/v1/payments/payouts: 401 Authentication failed due to invalid authentication credentials or a missing Authorization header., []"}
+{"level":"info","ts":"2021-04-02T15:17:07.460+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2021-04-02T15:17:41.234+0800","caller":"paymentapi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-04-02T15:17:41.717+0800","caller":"handler/paymentApi.go:91","msg":"POST https://api.paypal.com/v1/oauth2/token: 401 , []"}
+{"level":"error","ts":"2021-04-02T15:17:42.128+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.paypal.com/v1/payments/payouts: 401 Authentication failed due to invalid authentication credentials or a missing Authorization header., []"}
+{"level":"info","ts":"2021-04-02T15:17:42.128+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2021-04-02T15:17:42.236+0800","caller":"paymentapi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-04-02T15:17:43.032+0800","caller":"handler/paymentApi.go:91","msg":"POST https://api.paypal.com/v1/oauth2/token: 401 , []"}
+{"level":"error","ts":"2021-04-02T15:17:43.452+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.paypal.com/v1/payments/payouts: 401 Authentication failed due to invalid authentication credentials or a missing Authorization header., []"}
+{"level":"info","ts":"2021-04-02T15:17:43.452+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2021-04-02T15:19:05.499+0800","caller":"paymentapi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-04-02T15:19:06.866+0800","caller":"handler/paymentApi.go:91","msg":"POST https://api.paypal.com/v1/oauth2/token: 401 , []"}
+{"level":"error","ts":"2021-04-02T15:19:07.278+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.paypal.com/v1/payments/payouts: 401 Authentication failed due to invalid authentication credentials or a missing Authorization header., []"}
+{"level":"info","ts":"2021-04-02T15:19:07.279+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2021-04-02T15:19:07.385+0800","caller":"paymentapi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-04-02T15:19:07.832+0800","caller":"handler/paymentApi.go:91","msg":"POST https://api.paypal.com/v1/oauth2/token: 401 , []"}
+{"level":"error","ts":"2021-04-02T15:19:08.249+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.paypal.com/v1/payments/payouts: 401 Authentication failed due to invalid authentication credentials or a missing Authorization header., []"}
+{"level":"info","ts":"2021-04-02T15:19:08.249+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}

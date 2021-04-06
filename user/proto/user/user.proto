@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+package go.micro.service.user;
+
+service User {
+	//注册
+	rpc Register(UserRegisterRequest) returns (UserRegisterResponse) {}
+}
+
+
+message UserRegisterRequest {
+	string user_name = 1;
+	string first_name = 2;
+	string pwd = 3;
+	//... 其它信息
+}
+
+message UserRegisterResponse {
+	string message = 1;
+}
+
